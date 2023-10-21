@@ -1,11 +1,9 @@
+# 💫 About Me:
+
 <h1 align="center">Hi 👋, I'm Rot</h1>
 <h3 align="center">Backend Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RotColton&label=Profile%20views&color=0e75b6&style=flat" alt="RotColton" /> </p>
 
-[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is Rot
-===========================================================================================================================
-
-Backend Developer
 -----------------
 
 Una frikie de estas cosas...
@@ -156,6 +154,11 @@ src="https://img.shields.io/twitch/status/..?logo=twitchsx&style=for-the-badge&c
 ###
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!--div> <a href="https://github.com/RotColton" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a></div-->
 
