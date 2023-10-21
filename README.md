@@ -206,12 +206,7 @@ src="https://img.shields.io/twitch/status/..?logo=twitchsx&style=for-the-badge&c
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RotColton&theme=tokyo-night"/>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/312ehdbpdj4blpwldj5e2wndjd5a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+![Recently played:](https://spotify-recently-played-readme.vercel.app/api?user=312ehdbpdj4blpwldj5e2wndjd5a&unique={true|1|on|yes})
 
 ###
 
