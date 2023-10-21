@@ -59,8 +59,6 @@ src="https://img.shields.io/twitch/status/..?logo=twitchsx&style=for-the-badge&c
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
   <img width="12" />
-  </p>
-  <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
@@ -86,8 +84,6 @@ src="https://img.shields.io/twitch/status/..?logo=twitchsx&style=for-the-badge&c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-</p>
-<p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/sketchapp-icon.svg" alt="Sketchapp" width="40" height="40"/>
@@ -97,20 +93,14 @@ src="https://img.shields.io/twitch/status/..?logo=twitchsx&style=for-the-badge&c
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
-###
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">
-
+###
 
 <h3 align="left">Stars</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RotColton&theme=tokyonight" alt="RotColton" /></a> </p>
 
-
-
-<!--img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotColton&langs_count=8&theme=tokyonight" alt=RotColton /-->
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RotColton&show_icons=true&locale=en&theme=tokyonight" alt="RotColton" /></p>
 
@@ -119,16 +109,11 @@ src="https://img.shields.io/twitch/status/..?logo=twitchsx&style=for-the-badge&c
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/RotColton">
-<!--img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RotColton&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RotColton&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RotColton&theme=tokyonight" height="180em" /-->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RotColton&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RotColton&theme=tokyonight" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RotColton&theme=tokyo-night"/>
-
-
 
 
 <h3 align="left">Connect with me:</h3>
