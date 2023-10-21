@@ -205,6 +205,16 @@ src="https://img.shields.io/twitch/status/..?logo=twitchsx&style=for-the-badge&c
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RotColton&theme=tokyo-night"/>
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/312ehdbpdj4blpwldj5e2wndjd5a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
