@@ -175,10 +175,18 @@ src="https://img.shields.io/twitch/status/..?logo=twitchsx&style=for-the-badge&c
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+###
+![Recently played:](https://spotify-recently-played-readme.vercel.app/api?user=312ehdbpdj4blpwldj5e2wndjd5a&unique=true)
+
+###
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!--div> <a href="https://github.com/RotColton" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a></div-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">
+
 
 <h3 align="left">Stars</h3>
 
@@ -196,19 +204,16 @@ src="https://img.shields.io/twitch/status/..?logo=twitchsx&style=for-the-badge&c
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/RotColton">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RotColton&theme=tokyonight" height="180em" />
+<!--img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RotColton&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RotColton&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RotColton&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RotColton&theme=tokyonight" height="180em" /-->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RotColton&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RotColton&theme=tokyonight" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RotColton&theme=tokyo-night"/>
 
-###
-![Recently played:](https://spotify-recently-played-readme.vercel.app/api?user=312ehdbpdj4blpwldj5e2wndjd5a&unique={true|1|on|yes})
 
-###
 
 
 <h3 align="left">Connect with me:</h3>
