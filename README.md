@@ -1,3 +1,21 @@
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=tokyonight&username=@rotmmi" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+</div>
+
+###
+
+
+
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Rot</h1>
