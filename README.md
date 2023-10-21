@@ -32,11 +32,6 @@ Una frikie de estas cosas...
 
 - ⚡ I'm **rollerskater ;)**
 
-<a href="https://www.github.com/RotColton" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RotColton?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/.." target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/..?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/.." target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/..?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ###
 
