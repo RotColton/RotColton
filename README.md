@@ -8,11 +8,21 @@
 
 Una frikie de estas cosas...
 
-* 🌍  I'm based in Barcelona
-* ✉️  You can contact me at [romina.domingo@eurecat.org](mailto:romina.domingo@eurecat.org)
-* 🧠  I'm learning NodeJS, Keycloak and Discordjs
-* 🤝  I'm open to collaborating on Discord, security and Quantum Computing
-* ⚡  I'm a skater ;)
+-----------------
+
+- 💻 I’m currently working on **IA chatbot Discord Server**
+  
+- 🌍 I'm based in **Barcelona**
+
+- 🧠 I’m currently learning **Nodejs, Python, Keycloak and discordjs**
+
+- 👯 I’m open to collaborating on **Keycloack, Discord, security and Quantum Computing**
+
+- 💬 Ask me about **Java and Sprintboot**
+
+- 📫 How to reach me **romina.domingo@eurecat.org**
+
+- ⚡ I'm **rollerskater ;)**
 
 <a href="https://www.github.com/RotColton" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RotColton?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/.." target="_blank" rel="noreferrer"><img
