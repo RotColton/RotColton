@@ -91,29 +91,32 @@ Una frikie de estas cosas...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">
 ###
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RotColton&theme=onestar" alt="RotColton" /></a> </p>
+
 <h3 align="left">Stars</h3>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RotColton&theme=github-dark" alt="RotColton" /></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RotColton&theme=tokyonight" alt="RotColton" /></a> </p>
-
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RotColton&show_icons=true&locale=en&theme=tokyonight" alt="RotColton" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RotColton&theme=tokyonight" alt="RotColton" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/RotColton">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RotColton&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RotColton&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RotColton&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RotColton&theme=github_dark" height="180em" />
+<!--img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RotColton&theme=2077" height="180em" /-->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RotColton&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RotColton&theme=github_dark" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RotColton&theme=tokyo-night"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RotColton&theme=github-dark"/>
+
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerearth.com/rot" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerearth.svg" alt="rot" height="30" width="40" /></a></p>
+<!--a href="https://www.hackerearth.com/rot" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerearth.svg" alt="rot" height="30" width="40" /></a></p-->
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -124,12 +127,10 @@ Una frikie de estas cosas...
 </div>
 
 
-
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Rot"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rot" /></a><a href="https://ko-fi.com/Rot"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Rot" /></a></p><br><br>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RotColton&label=Profile%20views&color=0e75b6&style=flat" alt="RotColton" /> </p>
