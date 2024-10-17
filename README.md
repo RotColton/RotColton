@@ -24,11 +24,11 @@ Una frikie de estas cosas...
 
 - 🧠 I’m currently learning **Nodejs, Python, Keycloak and discordjs**
 
-- 👯 I’m open to collaborating on **Keycloack, Discord, security and Quantum Computing**
+- 👯 I’m open to collaborating on **Keycloack, Discord, security, Quantum Computing and AIs**
 
 - 💬 Ask me about **Java and Sprintboot**
 
-- 📫 How to reach me **romina.domingo@eurecat.org**
+- 📫 How to reach me **maromidomingo@gmail.com**
 
 - ⚡ I'm **rollerskater ;)**
 
