@@ -28,7 +28,7 @@ Una frikie de estas cosas...
 
 - 💬 Ask me about **Java and Sprintboot**
 
-- 📫 How to reach me **maromidomingo@gmail.com**
+- 📫 How to reach me **https://minimalist-console-website.vercel.app/**
 
 - ⚡ I'm **rollerskater ;)**
 
