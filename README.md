@@ -18,13 +18,13 @@ Una frikie de estas cosas...
 
 -----------------
 
-- 💻 I’m currently working on **IA chatbot Discord Server**
+- 💻 I’m currently working on **Botpress with Kafka**
   
 - 🌍 I'm based in **Barcelona**
 
-- 🧠 I’m currently learning **Nodejs, Python, Keycloak and discordjs**
+- 🧠 I’m currently learning **Nodejs, React, Keycloak, discordjs and Botpress**
 
-- 👯 I’m open to collaborating on **Keycloack, Discord, security, Quantum Computing and AIs**
+- 👯 I’m open to collaborating on **Keycloack, Discord, security, Quantum Computing and AIs, Kafka**
 
 - 💬 Ask me about **Java and Sprintboot**
 
