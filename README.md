@@ -24,9 +24,9 @@ Una frikie de estas cosas...
 
 - 🧠 I’m currently learning **Nodejs, React, Keycloak, discordjs and Botpress**
 
-- 👯 I’m open to collaborating on **Keycloack, Discord, security, Quantum Computing and AIs, Kafka**
+- 👯 I’m open to collaborating on **Keycloack, Discord, security, Quantum Computing, AIs and Kafka**
 
-- 💬 Ask me about **Java and Sprintboot**
+- 💬 Ask me about **Java and Spring Boot**
 
 - 📫 How to reach me **https://minimalist-console-website.vercel.app/**
 
