@@ -22,9 +22,9 @@ Una frikie de estas cosas...
   
 - 🌍 I'm based in **Barcelona**
 
-- 🧠 I’m currently learning **Nodejs, React, Keycloak, discordjs and Botpress**
+- 🧠 I’m currently learning **Keycloak, IAM, Kafka, Elasticsearch, Quantum Computing, DDD, AWS**
 
-- 👯 I’m open to collaborating on **Keycloak, IAM, Kafka, Elasticsearch, Quantum Computing, DDD, AWS**
+- 👯 I’m open to collaborating on **Software Design and DevSecOps**
 
 - 💬 Ask me about **Java and Spring Boot**
 
