@@ -30,7 +30,7 @@ Una frikie de estas cosas...
 
 - 📫 How to reach me **https://minimalist-console-website.vercel.app/**
 
-- 🛼 I'm **rollerskater ;)**
+- 💘 I'm **rollerskater ;)**
 
 
 ###
