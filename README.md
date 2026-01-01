@@ -9,7 +9,7 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Rot</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Software Development Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RotColton&label=Profile%20views&color=0e75b6&style=flat" alt="RotColton" /> </p>
 
 -----------------
@@ -18,13 +18,13 @@ Una frikie de estas cosas...
 
 -----------------
 
-- 💻 I’m currently working on **Botpress with Kafka**
+- 💻 Current Focus: **AppSec | Event-Driven Microservices | Cloud Security**
   
 - 🌍 I'm based in **Barcelona**
 
 - 🧠 I’m currently learning **Nodejs, React, Keycloak, discordjs and Botpress**
 
-- 👯 I’m open to collaborating on **Keycloack, Discord, security, Quantum Computing, AIs and Kafka**
+- 👯 I’m open to collaborating on **Keycloak, IAM, Kafka, Elasticsearch, Quantum Computing, DDD, AWS**
 
 - 💬 Ask me about **Java and Spring Boot**
 
