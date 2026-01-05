@@ -18,15 +18,15 @@ Una frikie de estas cosas...
 
 -----------------
 
-- 💻 Current Focus: **AppSec | Event-Driven Microservices | Cloud Security**
+- 💻 Current Focus: **Event-Driven Microservices | DDD | CQRS**
   
 - 🌍 I'm based in **Barcelona**
 
-- 🧠 I’m currently learning **Keycloak, IAM, Kafka, Elasticsearch, Quantum Computing, DDD, AWS**
+- 🧠 I’m currently learning **Keycloak, IAM, Kafka, Elasticsearch, Event Store, Event Sourcing, DDD**
 
-- 👯 I’m open to collaborating on **Software Design and DevSecOps**
+- 👯 I’m open to collaborating on **Software Design**
 
-- 💬 Ask me about **Java and Spring Boot**
+- 💬 Ask me about **Java and Spring**
 
 - 📫 How to reach me **https://minimalist-console-website.vercel.app/**
 
