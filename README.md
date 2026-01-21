@@ -22,13 +22,13 @@ Una frikie de estas cosas...
   
 - 🌍 I'm based in **Barcelona**
 
-- 🧠 I’m currently learning **Keycloak, IAM, Kafka, Elasticsearch, Event Store, Event Sourcing, DDD**
+- 🧠 I’m currently learning **DevOps, Solutions Architect, Kafka, Elasticsearch, Event Store, Event Sourcing, DDD**
 
 - 👯 I’m open to collaborating on **Software Design**
 
 - 💬 Ask me about **Java and Spring**
 
-- 📫 How to reach me **https://minimalist-console-website.vercel.app/**
+- 📫 How to reach me *https://minimalist-console-website.vercel.app/* | *https://maria-roman-domingo-g66agjd.gamma.site/*
 
 - 💘 I'm **rollerskater ;)**
 
